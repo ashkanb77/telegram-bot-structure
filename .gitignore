@@ -1,0 +1,8 @@
+test.*
+.env
+.idea
+__pycache__
+*/__pycache__
+documents
+venv
+logs
